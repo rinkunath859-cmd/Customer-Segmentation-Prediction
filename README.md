@@ -57,13 +57,22 @@ Does not require predefined cluster count
 
 🔹 Elbow Method (Optimal Clusters)
 
+<img width="726" height="571" alt="image" src="https://github.com/user-attachments/assets/8dfee571-67c8-4b38-a51b-1fbd2483080b" />
+
+
 The Elbow Method helps determine the optimal number of clusters by analyzing WCSS.
 
 🔹 PCA Cluster Visualization
 
+<img width="711" height="570" alt="image" src="https://github.com/user-attachments/assets/dbf7eabd-d7e2-4a65-b554-83a5273be334" />
+
+
 Dimensionality reduction using PCA to visualize clusters in 2D space.
 
 🔹 Hierarchical Clustering (Dendrogram)
+
+<img width="836" height="556" alt="image" src="https://github.com/user-attachments/assets/b8d693f6-ee00-4f54-9896-f617d7e2fa4c" />
+
 
 Shows how clusters are formed step by step.
 
